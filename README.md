@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋 Mi nombre es Mario 😊</h1>
 <h3 align="center">🚀 Desarrollador Backend en Proceso</h3>
+<br>
 <p align="center"> 🌱 Actualmente estoy aprendiendo C#, .NetCore, ASP.Net, Entity Framework & MySql</p>
  
 <h3 align="center">👨‍💻 Lenguajes y Herramientas:</h3>
