@@ -1,4 +1,7 @@
-# Hola 👋 Mi nombre es Mario 😊
+<p align="center">
+  <h1>Hola 👋 Mi nombre es Mario 😊</h1>
+</p>
+ 🚀 Desarrollador Junior en Proceso
 
 ### 👨‍💻 Lenguajes y Herramientas:
 
