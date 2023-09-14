@@ -36,3 +36,6 @@
 
 </p>
 
+### ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariodaza25&show_icons=true&line_height=30)
+ 
+
