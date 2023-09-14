@@ -34,8 +34,16 @@
   <img src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" width="50" height="40">
 </a>
 
+-----
 </p>
-
-### ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariodaza25&show_icons=true&line_height=30)
+<p align="center">
+ <a href="https://github.com/mariodaza25">
+   <img src="https://github-readme-stats.vercel.app/api?username=mariodaza25&show_icons=true&hide_border=true" />
+ </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/mariodaza25">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariodaza25&layout=compact" />
+ </a>
+</p>
  
 
